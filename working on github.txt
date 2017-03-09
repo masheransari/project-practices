@@ -1,0 +1,51 @@
+make account on github..
+
+following me 
+www.github.com/masheransari
+
+fork my repo..
+
+https://github.com/masheransari/project-practices.git
+
+using cmd
+create a folder named as FYP..
+open cmd on that folder.
+write command..
+
+->>>>   git clone https://github.com/masheransari/project-practices.git
+
+it will download our repository from clone..
+
+and save your all work on your folders..
+
+for uploading in our repositroy...
+
+wirite in repository
+
+
+1st--->>
+
+git add .
+
+2nd --->>
+
+git commit -m "ap yeha pe apna msg likho ge jo ap upar repository pe show krwana chahte ho..."
+
+3rd--->>
+
+git push
+
+
+4th--->> enter your username, and password (only write github account username and psk)..
+
+then it will be upload...
+
+
+but it is highly restricted.. 
+		..DO NOT UPLOAD OUR MAIN PROJECT FILE..
+
+we will share our material it on Dropbox also..
+
+i have share link on your gmail also..
+
+	//// InshaAllah we will complete this project as soon as possible....
